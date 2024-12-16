@@ -6,4 +6,4 @@
 </a>
 
 <h4>Deploy link</h4>
-https://bootsrap-exam-8oy40x01f-bhupendra-patils-projects.vercel.app/
+ https://effortless-crumble-2c7f5d.netlify.app/
